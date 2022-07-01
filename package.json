@@ -115,7 +115,7 @@
     "concurrently": "^6.2.1",
     "cross-env": "^7.0.2",
     "css-loader": "^5.2.6",
-    "electron": "^11.1.1",
+    "electron": "^15.5.5",
     "eslint": "^7.31.0",
     "eslint-plugin-notice": "^0.9.10",
     "eslint-plugin-react-hooks": "^4.2.0",
